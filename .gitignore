@@ -1,6 +1,9 @@
 .ipynb_checkpoints/
 *.swp
 *.tsv
+*.npy
+*.bin
+*.DS_Store
 *.train*
 *.test*
 *.output
